@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**TODO: Your playing cards, now smarter!**
 
 ## Installation
 
