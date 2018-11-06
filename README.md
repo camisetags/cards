@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+A simple command-line card guessing game leveraging elixir and Erlang.
 
 ## Installation
 
